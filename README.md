@@ -6,4 +6,5 @@ This is my very first portfolio project on my very own effort to enter the Data 
 Here's the link to my Tableau Dashboard
 https://public.tableau.com/views/CovidDashboardTutorial_16456961906400/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
-[![Tableau Dashboard](https://public.tableau.com/static/images/Co/CovidDashboardTutorial_16456961906400/Dashboard1/1_rss.png)](https://public.tableau.com/static/images/Co/CovidDashboardTutorial_16456961906400/Dashboard1/1_rss.png)
+[Link to Tableau Visualization](https://public.tableau.com/views/CovidDashboardTutorial_16456961906400/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
